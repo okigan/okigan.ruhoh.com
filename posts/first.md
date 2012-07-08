@@ -5,4 +5,5 @@ tags: []
 type: draft 
 ---
 
-First post!
+First post! -- It's more than a decade into 21st century -- time to get a blog going. Who knows, I might even connect it to that "social" stuff.
+
