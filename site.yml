@@ -1,11 +1,9 @@
-title : Blog Title
-tagline: Blog Tagline
+title : void ★★
+tagline: this is the [acting] tagline
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Igor Okulist
+  email : igor@okulist.com
+  github : okigan
 
 navigation :
   - archive.html
