@@ -1,1 +1,1 @@
-Readme at blog.okulist.com
+Readme at http://blog.okulist.com
