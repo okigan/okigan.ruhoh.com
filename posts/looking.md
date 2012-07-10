@@ -2,7 +2,6 @@
 date: '2012-04-13'
 categories:
 tags: []
-type: draft 
 ---
 
 ![](../media/Looking_Lrg_728x485.jpg)
