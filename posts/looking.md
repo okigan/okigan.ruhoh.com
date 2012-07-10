@@ -4,7 +4,7 @@ categories:
 tags: []
 ---
 
-![](../media/Looking_Lrg_728x485.jpg)
+![]({{urls.media}}/Looking_Lrg_728x485.jpg)
 
 So many ways to look at this situation! Here some of the options: 
 
