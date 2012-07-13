@@ -112,3 +112,4 @@ on the command string. ICommand implementation is responsible for parsing comman
 parameters and etc. Simplified diagram is shown below:
 
 ![alt text](execseq.png "Sequence")
+
