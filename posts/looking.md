@@ -15,3 +15,5 @@ So many ways to look at this situation! Here some of the options:
 There is also one more observation to make:
 
 - All 3 men on the look out are "looking" in the same direction -- who said groups are wiser than individuals?
+                                                                 - 
+                                                                 - 
