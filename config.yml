@@ -12,3 +12,4 @@ posts:
 
 pages:
   permalink: 'pretty'
+  exclude: ['.*png', '.*zip']

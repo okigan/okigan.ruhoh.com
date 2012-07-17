@@ -1,5 +1,5 @@
 ## Download
-[Download VSDebugHelper.vsi](VSDebugHelper.vsi "VSDebugHelper.vsi")
+[Download VSDebugHelper.zip](VSDebugHelper.vsi "VSDebugHelper.vsi")
 
 ## Introduction
 At times I need to look into a processing step of a pipeline, either to
@@ -68,7 +68,7 @@ Here is an example how VsDebugHelper can capture a buffer of pixels:
     ...
     
 
-![alt text]({{urls.media}}/command.png "Command")
+![alt text](command.png "Command")
 
 Note that arguments are variables and expressions of expressions, which are
 evaluated by the debugger. If you run into any issue, first double check that
@@ -76,21 +76,21 @@ all expressions can be resolved in the watch window.
 
 And here how the raw data displayed by an external viewer (IrfranView): 
 
-![alt text]({{urls.media}}/gray.png "Gray")
+![alt text](gray.png "Gray")
 
-![alt text]({{urls.media}}/color.png "Color")
+![alt text](color.png "Color")
 
 ## Installation
 ### Installation by direct download
 Proceed with download and install at the top of the article. After the installation
 confirm addin is installed and set to be loaded at startup as shown below:
 
-![alt text]({{urls.media}}/manager.png "Color")
+![alt text](manager.png "Color")
 
 ### Installation through Extension Manager
 Alternatevly, the addin can be installed from within Visual Studio though
 the use of Extension Manager as shown below:
-![]({{urls.media}}/extmanager.png "Extension Manager")
+![](extmanager.png "Extension Manager")
 
 ## Addin internals
 Visual Studio has a number of extensibility technologies, but useful
@@ -111,5 +111,5 @@ interface and its implementation will dispatch the call ICommand implementation 
 on the command string. ICommand implementation is responsible for parsing command 
 parameters and etc. Simplified diagram is shown below:
 
-![alt text]({{urls.media}}/execseq.png "Sequence")
+![alt text](execseq.png "Sequence")
 
