@@ -4,14 +4,16 @@ categories:
 tags: []
 type: 
 ---
-Kids these days! and that's a 7 year old as well:
+I think when we were running in the hood we used a different technique! 
+
+And that's a 7 year old as well:
 
 
 <iframe 
 	class="youtube-player" 
 	width="600" 
 	height="450" 
-	src="http://www.youtube.com/embed/aESIBM94xzk" 
+	src="http://www.youtube.com/embed/aESIBM94xzk?start=53" 
 	frameborder="0" 
 	allowfullscreen
 >
