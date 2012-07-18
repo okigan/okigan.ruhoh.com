@@ -9,8 +9,8 @@ Kids these days! and that's a 7 year old as well:
 
 <iframe 
 	class="youtube-player" 
-	width="420" 
-	height="315" 
+	width="600" 
+	height="450" 
 	src="http://www.youtube.com/embed/aESIBM94xzk" 
 	frameborder="0" 
 	allowfullscreen
